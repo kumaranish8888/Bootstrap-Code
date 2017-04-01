@@ -1,0 +1,22 @@
+{
+  "name": "Bootstrap-Code",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "kumaranish8888 <kumaranish8888@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kumaranish8888/Bootstrap-Code",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
