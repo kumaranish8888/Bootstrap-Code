@@ -1,0 +1,59 @@
+body {
+    font-size: 62.5%;
+    font-family: arial, sans-serif;
+    background-image: url(image2.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#content {
+    font-size: 3em;
+    vertical-align: middle;
+    font-family: 'Pacifico',cursive;
+    padding-left: 15px;
+    color: dodgerblue;
+}
+
+#content2 {
+    font-size: 2em;
+}
+
+#theImage {
+    height: 100px;
+    width: 100px;
+}
+
+
+.slide1 {
+    background-image: url(one.jpeg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.slide2 {
+    background-image: url(two.jpeg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.slide3 {
+    background-image: url(three.jpeg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-caption h1 {
+    font-size: 5.4em;
+    font-family: 'Pacifico', cursive;
+    padding-bottom: .4em;
+}
+
+.carousel-caption p {
+    font-size: 2em;
+}

@@ -2,4 +2,20 @@
     background-color: aqua;
     color: white;
 }
- 
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.nav-tabs {
+    margin-bottom: 0;
+} 
+
+
+#theImage {
+    height: 100px;
+    width: 100px;
+}
